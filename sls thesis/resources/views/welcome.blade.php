@@ -840,7 +840,7 @@
         <div class="div">254</div>
         <div class="div1">85</div>
         <div class="about-page-item"></div>
-        <img class="logo-icon" alt="" src="./public/logo@2x.png" />
+        <img class="logo-icon" alt="" src="../public/logo@2x.png" />
 
         <div class="shekinah-learning-school">
             Shekinah Learning School is dedicated in enhancing the students’
@@ -850,9 +850,9 @@
             that are most helpful for his/her journey through life.
         </div>
         <div class="about-shekinah-learning">About Shekinah Learning School</div>
-        <img class="about-page-inner" alt="" src="./public/ellipse-9@2x.png" />
+        <img class="about-page-inner" alt="" src="../public/ellipse-9@2x.png" />
 
-        <img class="ellipse-icon" alt="" src="./public/ellipse-10@2x.png" />
+        <img class="ellipse-icon" alt="" src="../public/ellipse-10@2x.png" />
 
         <div class="rectangle-div"></div>
         <div class="about-page-child1"></div>
@@ -876,13 +876,13 @@
             experience which promotes each child’s social/emotional, physical and
             cognitive development in order to empowering a Diverse Community
         </div>
-        <img class="rectangle-icon" alt="" src="./public/rectangle-21@2x.png" />
+        <img class="rectangle-icon" alt="" src="../public/rectangle-21@2x.png" />
 
         <div class="empowering-a-diverse">
             Empowering a Diverse Community, United by Christ, to achieve Excellence
             in Education
         </div>
-        <img class="arrow-back-icon" alt="" src="./public/arrow-back.svg" />
+        <img class="arrow-back-icon" alt="" src="../public/arrow-back.svg" />
     </div>
 </body>
 
