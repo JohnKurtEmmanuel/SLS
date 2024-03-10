@@ -1,0 +1,677 @@
+.home-page-child {
+  position: absolute;
+  top: 3092px;
+  left: 0px;
+  background-color: var(--color-skyblue-100);
+  width: 1439px;
+  height: 219px;
+}
+.home-page-item {
+  position: absolute;
+  top: -1px;
+  left: 0px;
+  background-color: var(--color-skyblue-100);
+  width: 1440px;
+  height: 15px;
+}
+.home-page-inner {
+  position: absolute;
+  top: 90px;
+  left: 0px;
+  background-color: var(--color-skyblue-100);
+  width: 1440px;
+  height: 362px;
+}
+.home {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 39px;
+  left: 871px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto-slab);
+  color: var(--color-black);
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  width: 64px;
+}
+.home-page-child1 {
+  position: absolute;
+  top: 105px;
+  left: 14px;
+  border-radius: var(--br-xl);
+  width: 1412px;
+  height: 332px;
+  object-fit: cover;
+}
+.logo-icon2 {
+  position: absolute;
+  top: 7px;
+  left: 39px;
+  width: 98px;
+  height: 91px;
+  object-fit: contain;
+}
+.shekinah-learning-school1 {
+  position: absolute;
+  top: 30px;
+  left: 117px;
+  font-size: 37px;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 646.6px;
+  height: 59.7px;
+  text-shadow:
+    1px 0 0 #1987c4,
+    0 1px 0 #1987c4,
+    -1px 0 0 #1987c4,
+    0 -1px 0 #1987c4;
+}
+.previous-events {
+  position: absolute;
+  top: 2514px;
+  left: 545px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-steelblue-100);
+}
+.home-page-child2 {
+  position: absolute;
+  top: 2620px;
+  left: 669px;
+  width: 770px;
+  height: 275px;
+  object-fit: cover;
+}
+.looking-forward-to {
+  margin: 0;
+}
+.looking-forward-to-container {
+  position: absolute;
+  top: 2656px;
+  left: 47px;
+  font-size: var(--font-size-6xl);
+  text-align: center;
+  display: inline-block;
+  width: 579px;
+  height: 204px;
+}
+.home-page-child3 {
+  position: absolute;
+  top: 2644px;
+  left: 1075px;
+  width: 334px;
+  height: 228px;
+  object-fit: cover;
+}
+.home-page-child4 {
+  position: absolute;
+  top: 2643px;
+  left: 697px;
+  width: 334px;
+  height: 228px;
+  object-fit: cover;
+}
+.upcoming-events {
+  position: absolute;
+  top: 2058px;
+  left: 537px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-steelblue-100);
+  white-space: pre-wrap;
+}
+.home-page-child5 {
+  position: absolute;
+  top: 2160px;
+  left: 0px;
+  width: 771px;
+  height: 275px;
+  object-fit: cover;
+}
+.a-happy-new-container {
+  position: absolute;
+  top: 2169px;
+  left: 810px;
+  font-size: var(--font-size-6xl);
+  text-align: center;
+  display: inline-block;
+  width: 581px;
+  height: 252px;
+}
+.home-page-child6 {
+  position: absolute;
+  top: 2184px;
+  left: 28px;
+  width: 334px;
+  height: 228px;
+  object-fit: cover;
+}
+.home-page-child7 {
+  position: absolute;
+  top: 2184px;
+  left: 411px;
+  width: 332px;
+  height: 228px;
+  object-fit: cover;
+}
+.contact-us {
+  position: absolute;
+  top: 3004px;
+  left: 600px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-steelblue-100);
+}
+.contact-shekinah-office-container {
+  position: absolute;
+  top: 3172px;
+  left: 201px;
+  font-size: 17px;
+  white-space: pre-wrap;
+}
+.shekinah-learning-school2 {
+  position: absolute;
+  top: 3196px;
+  left: 599px;
+  font-size: var(--font-size-3xl);
+  white-space: pre-wrap;
+}
+.shekinahls-denyahoocom {
+  position: absolute;
+  top: 3196px;
+  left: 1032px;
+  font-size: var(--font-size-3xl);
+}
+.home-page-child8 {
+  position: absolute;
+  top: 3325px;
+  left: 1008px;
+  width: 334px;
+  height: 174px;
+  object-fit: cover;
+}
+.welcome-to-shekinah {
+  position: absolute;
+  top: 500px;
+  left: 463px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-steelblue-100);
+  text-align: center;
+}
+.starting-with-the {
+  position: absolute;
+  top: 556px;
+  left: 502px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-myanmar-khyay);
+  text-align: center;
+}
+.frame-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+  width: 318.3px;
+  height: 328.1px;
+  object-fit: cover;
+}
+.frame-item {
+  position: absolute;
+  top: 179px;
+  left: 12.7px;
+  width: 293.1px;
+  height: 149.3px;
+  object-fit: contain;
+}
+.active-learning {
+  position: absolute;
+  top: 235px;
+  left: 51.3px;
+  display: inline-block;
+  width: 214.5px;
+  height: 26px;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 649px;
+  left: 570px;
+  width: 318.3px;
+  height: 328.3px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.frame-child1 {
+  position: absolute;
+  top: 179px;
+  left: 12.8px;
+  width: 293.1px;
+  height: 149.3px;
+  object-fit: contain;
+}
+.frame-child2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+  width: 318.3px;
+  height: 328px;
+  object-fit: cover;
+}
+.frame-child3 {
+  position: absolute;
+  top: 179px;
+  left: 12.3px;
+  width: 293.1px;
+  height: 149.3px;
+  object-fit: contain;
+}
+.professional-teachers {
+  position: absolute;
+  top: 222px;
+  left: 71.3px;
+  display: inline-block;
+  width: 176.1px;
+}
+.frame2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 318.3px;
+  height: 328px;
+  overflow: hidden;
+}
+.vector-parent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 318.3px;
+  height: 328.3px;
+}
+.group-div {
+  position: absolute;
+  top: 649px;
+  left: 121.7px;
+  width: 318.3px;
+  height: 328.3px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.activities-events {
+  position: absolute;
+  top: 232px;
+  left: 32.6px;
+  display: inline-block;
+  width: 254.2px;
+}
+.ellipse-group {
+  position: absolute;
+  top: 649px;
+  left: 999px;
+  width: 318.3px;
+  height: 328.3px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.online-enrollment {
+  position: absolute;
+  top: 1027px;
+  left: 584px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-steelblue-100);
+  white-space: pre-wrap;
+  text-align: center;
+}
+.home-page-child9 {
+  position: absolute;
+  top: 1099px;
+  left: 0px;
+  background-color: var(--color-skyblue-100);
+  width: 1440px;
+  height: 362px;
+}
+.home-page-child10 {
+  position: absolute;
+  top: 1610px;
+  left: 0px;
+  background-color: var(--color-skyblue-100);
+  width: 1440px;
+  height: 362px;
+}
+.our-courses {
+  position: absolute;
+  top: 1510px;
+  left: 604px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-steelblue-100);
+  white-space: pre-wrap;
+  text-align: center;
+}
+.image-1-icon {
+  position: absolute;
+  top: 1595px;
+  left: 40px;
+  width: 296px;
+  height: 283.7px;
+  object-fit: cover;
+}
+.science {
+  position: absolute;
+  top: 1850px;
+  left: 85px;
+  font-size: var(--font-size-26xl);
+  text-align: center;
+  display: inline-block;
+  width: 206.7px;
+  height: 58.7px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 1551px;
+  left: 344px;
+  width: 385px;
+  height: 466px;
+  object-fit: cover;
+}
+.mathematics {
+  position: absolute;
+  top: 1848px;
+  left: 367px;
+  font-size: var(--font-size-26xl);
+  text-align: center;
+}
+.image-3-icon {
+  position: absolute;
+  top: 1637px;
+  left: 785px;
+  width: 197px;
+  height: 199px;
+  object-fit: cover;
+}
+.english {
+  position: absolute;
+  top: 1848px;
+  left: 782px;
+  font-size: var(--font-size-26xl);
+}
+.image-4-icon {
+  position: absolute;
+  top: 1529px;
+  left: 1001px;
+  width: 379px;
+  height: 421px;
+  object-fit: cover;
+}
+.computer {
+  position: absolute;
+  top: 1848px;
+  left: 1064px;
+  font-size: var(--font-size-26xl);
+  text-align: center;
+}
+.home-page-child11 {
+  position: absolute;
+  top: 1129px;
+  left: 769px;
+  border-radius: var(--br-xl);
+  width: 611px;
+  height: 314px;
+  object-fit: cover;
+}
+.contact-us1 {
+  position: absolute;
+  top: 39px;
+  left: 1132px;
+  font-size: var(--font-size-xl);
+}
+.log-in1 {
+  position: absolute;
+  top: 39px;
+  left: 1257px;
+  font-size: var(--font-size-xl);
+}
+.frame-child6 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-steelblue-200);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 327px;
+  height: 61px;
+}
+.grades-1-10 {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+  display: inline-block;
+  width: 225.3px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 1350px;
+  left: 921px;
+  width: 327px;
+  height: 61px;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.phone-solid-1-icon {
+  position: absolute;
+  top: 3178px;
+  left: 113px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.quick-links {
+  position: absolute;
+  top: 3311px;
+  left: 128px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-steelblue-100);
+}
+.home1 {
+  position: absolute;
+  top: 3364px;
+  left: 142px;
+  display: inline-block;
+  width: 42px;
+  height: 23px;
+}
+.courses {
+  position: absolute;
+  top: 3403px;
+  left: 142px;
+}
+.contact {
+  position: absolute;
+  top: 3442px;
+  left: 142px;
+}
+.enroll-online {
+  position: absolute;
+  top: 3366px;
+  left: 222px;
+}
+.events {
+  position: absolute;
+  top: 3403px;
+  left: 222px;
+}
+.phone-solid-2-icon {
+  position: absolute;
+  top: 3412px;
+  left: 460px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.phone-icon-3 {
+  position: absolute;
+  height: 0.71%;
+  width: 1.74%;
+  top: 95.79%;
+  right: 66.46%;
+  bottom: 3.5%;
+  left: 31.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon {
+  position: absolute;
+  height: 0.65%;
+  width: 1.46%;
+  top: 94.6%;
+  right: 66.67%;
+  bottom: 4.75%;
+  left: 31.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.blk-11-lot {
+  position: absolute;
+  top: 3333px;
+  left: 507px;
+}
+.shekinah-directory-shekinahls {
+  position: absolute;
+  top: 3458px;
+  left: 505px;
+  white-space: pre-wrap;
+}
+.admission-office-63919-636-3 {
+  position: absolute;
+  top: 3415px;
+  left: 499px;
+  white-space: pre-wrap;
+}
+.fb-icon-1 {
+  position: absolute;
+  height: 0.76%;
+  width: 2.08%;
+  top: 98.21%;
+  right: 66.25%;
+  bottom: 1.03%;
+  left: 31.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fb-icon-2 {
+  position: absolute;
+  height: 1.52%;
+  width: 4.17%;
+  top: 90.42%;
+  right: 60.76%;
+  bottom: 8.06%;
+  left: 35.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.head-office-02 {
+  position: absolute;
+  top: 3373px;
+  left: 510px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 1.48%;
+  width: 4.72%;
+  top: 90.45%;
+  right: 30%;
+  bottom: 8.07%;
+  left: 65.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about-shekinah {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 39px;
+  left: 954px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto-slab);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 158px;
+}
+.chismis-icon {
+  position: absolute;
+  top: 1129px;
+  left: 96px;
+  border-radius: var(--br-xl);
+  width: 611px;
+  height: 314px;
+  object-fit: cover;
+}
+.frame-child7 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-steelblue-200);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 325.8px;
+  height: 61px;
+}
+.nursey-kinder {
+  position: absolute;
+  top: 11px;
+  left: 0px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-roboto-slab);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 327px;
+}
+.rectangle-group {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1350px;
+  left: 222px;
+  width: 327px;
+  height: 61px;
+  opacity: 0;
+}
+.rectangle-group.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.home-page {
+  margin: 0;
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3518px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-roboto-slab);
+}

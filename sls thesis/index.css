@@ -1,0 +1,197 @@
+.about-page-child {
+  position: absolute;
+  top: 1317px;
+  left: 93px;
+  background-color: var(--color-skyblue-100);
+  width: 1211px;
+  height: 272px;
+}
+.div {
+  position: absolute;
+  top: 1430px;
+  left: 254px;
+  font-size: var(--font-size-66xl);
+}
+.div1 {
+  position: absolute;
+  top: 1430px;
+  left: 674px;
+  font-size: var(--font-size-66xl);
+}
+.about-page-item {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-skyblue-100);
+  width: 1440px;
+  height: 426px;
+}
+.logo-icon {
+  position: absolute;
+  top: 4px;
+  left: 507px;
+  width: 425.1px;
+  height: 422.1px;
+  object-fit: contain;
+}
+.shekinah-learning-school {
+  position: absolute;
+  top: 143px;
+  left: 233px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 1025px;
+  height: 224px;
+}
+.about-shekinah-learning {
+  position: absolute;
+  top: 51px;
+  left: 356px;
+  color: var(--color-white);
+  text-align: left;
+}
+.about-page-inner {
+  position: absolute;
+  top: 629px;
+  left: 832px;
+  border-radius: 50%;
+  width: 550px;
+  height: 508px;
+  object-fit: cover;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 629px;
+  left: 93px;
+  border-radius: 50%;
+  width: 550px;
+  height: 508px;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  top: 606px;
+  left: 42px;
+  background-color: var(--color-steelblue-100);
+  width: 298px;
+  height: 306px;
+}
+.about-page-child1 {
+  position: absolute;
+  top: 606px;
+  left: 720px;
+  background-color: var(--color-steelblue-100);
+  width: 298px;
+  height: 306px;
+}
+.our-focus-is {
+  position: absolute;
+  top: 645px;
+  left: 742px;
+  font-size: 23px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 260px;
+  height: 272px;
+}
+.mission {
+  position: absolute;
+  top: 483px;
+  left: 244px;
+  color: var(--color-steelblue-100);
+}
+.vision {
+  position: absolute;
+  top: 494px;
+  left: 1042px;
+  color: var(--color-steelblue-100);
+}
+.all-information-about {
+  position: absolute;
+  top: 1222px;
+  left: 344px;
+  color: var(--color-steelblue-100);
+}
+.students {
+  position: absolute;
+  top: 1364px;
+  left: 191px;
+}
+.teachers {
+  position: absolute;
+  top: 1364px;
+  left: 961px;
+}
+.scholars {
+  position: absolute;
+  top: 1364px;
+  left: 588px;
+}
+.div2 {
+  position: absolute;
+  top: 1430px;
+  left: 1044px;
+  font-size: var(--font-size-66xl);
+}
+.the-professionals-behind {
+  position: absolute;
+  top: 1671px;
+  left: 312px;
+  font-size: var(--font-size-21xl);
+  color: #1987c4;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 774px;
+  height: 66px;
+}
+.our-focus-is1 {
+  position: absolute;
+  top: 1833px;
+  left: 77px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 622px;
+  height: 424px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 1823px;
+  left: 732px;
+  border-radius: 70px;
+  width: 624px;
+  height: 443px;
+  object-fit: cover;
+}
+.empowering-a-diverse {
+  position: absolute;
+  top: 657px;
+  left: 49px;
+  font-size: 28px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 283px;
+  height: 185px;
+}
+.arrow-back-icon {
+  position: absolute;
+  height: 1.22%;
+  width: 1.25%;
+  top: 0.93%;
+  right: 97.08%;
+  bottom: 97.86%;
+  left: 1.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.about-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2378px;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto-slab);
+}
